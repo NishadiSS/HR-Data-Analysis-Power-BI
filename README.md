@@ -1,1 +1,1 @@
-# HR-data-analysis-Power-BI
+# HR-dashboard-Power-BI
