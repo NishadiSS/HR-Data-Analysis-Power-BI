@@ -4,4 +4,8 @@
 ## Final Output 
 ![image](https://github.com/NishadiSS/HR-Data-Analysis-Power-BI/assets/119886016/4aba0e21-e2d1-4aec-b95e-ae7a65c59342)
 
+## Mobile view
+https://github.com/NishadiSS/HR-Data-Analysis-Power-BI/assets/119886016/f710820d-c9be-464e-82f0-7906534a730a
+
+
 
